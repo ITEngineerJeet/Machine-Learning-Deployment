@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/codespaces-blank/House Price Prediction/mlruns/0/254d2abe07724d0dbc008d192e559a86/artifacts
+end_time: 1774528881624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 254d2abe07724d0dbc008d192e559a86
+run_name: caring-crane-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774528539126
+status: 3
+tags: []
+user_id: codespace

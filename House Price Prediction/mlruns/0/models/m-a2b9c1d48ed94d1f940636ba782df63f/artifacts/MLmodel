@@ -1,0 +1,23 @@
+artifact_path: file:///workspaces/codespaces-blank/House Price Prediction/mlruns/0/models/m-a2b9c1d48ed94d1f940636ba782df63f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-a2b9c1d48ed94d1f940636ba782df63f
+model_size_bytes: 106183558
+model_uuid: m-a2b9c1d48ed94d1f940636ba782df63f
+prompts: null
+run_id: 254d2abe07724d0dbc008d192e559a86
+utc_time_created: '2026-03-26 12:41:17.320688'

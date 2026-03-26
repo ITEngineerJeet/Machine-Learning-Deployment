@@ -1,0 +1,16 @@
+creation_timestamp: 1774545081452
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1774545081452
+model_id: m-2ba3246b9c0147499acb1a510473abc0
+name: Best Wine Quality Predictor
+run_id: eb468f5e0b3e441e906f8baa5bc6a43d
+run_link: ''
+source: models:/m-2ba3246b9c0147499acb1a510473abc0
+status: READY
+status_message: null
+storage_location: file:///workspaces/codespaces-blank/Wine Quallity Prediction/mlruns/560262810386952392/models/m-2ba3246b9c0147499acb1a510473abc0/artifacts
+user_id: null
+version: 2
+workspace: default
